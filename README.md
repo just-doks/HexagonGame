@@ -20,7 +20,7 @@
 
 #### Демонстрация
 <p align="center">
-  <img src="images/1.PNG" alt="Стартовый экран" height="500"/>
+  <img src="images/1.PNG" alt="Стартовый экран" width="45%"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="images/2.PNG" alt="Игровое поле" height="500"/>
+  <img src="images/2.PNG" alt="Игровое поле" width="45%"/>
 </p>
