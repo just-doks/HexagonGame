@@ -19,7 +19,8 @@
 Игра заканчивается, когда все клетки заняты. Выигрывает тот, кто занял больше клеток.
 
 #### Демонстрация
-
-<img src="images/1.PNG" alt="Стартовый экран" height="300"/>
-#![Стартовый экран](images/1.PNG)
-![Игровое поле](images/2.PNG)
+<p align="center">
+  <img src="images/1.PNG" alt="Стартовый экран" height="500"/>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/2.PNG" alt="Игровое поле" height="500"/>
+</p>
